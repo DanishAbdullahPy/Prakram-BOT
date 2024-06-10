@@ -33,7 +33,7 @@ const Main = () => {
 						</div>
 						<div className="cards">
 							<div className="dpji">
-								<img src="src\assets\policed.png" alt="" />
+								<img src="./public/policed.png" alt="" />
 							</div>
 							
 						</div>
